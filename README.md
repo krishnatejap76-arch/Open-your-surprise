@@ -117,7 +117,7 @@
     <div class="card" id="mainCard">
         <div id="ask">
             <h1>Hey MoMo! ✨</h1>
-            <p class="sub-text">Life is better with you... <br>you are my <b>Best Friend</b> 🫂</p>
+            <p class="sub-text">will you be my best friend <br>you are my <b>Best Friend</b> 🫂</p>
             <div class="buttons">
                 <button id="yesBtn">Yes, Forever! 🤝</button>
                 <button id="noBtn">No</button>
